@@ -1,0 +1,18 @@
+# Node.js dependencies
+node_modules/
+
+# MacOS metadata
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables (if any)
+.env
+
+# Log files
+*.log
+
+# Windows hidden files
+Thumbs.db
